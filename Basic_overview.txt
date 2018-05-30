@@ -1,0 +1,63 @@
+Campaign Builder Overview:
+
+Campaign Designer:
+
+	Political Entity Generator:
+		Nations
+		Factions
+		Subfactions
+		Specific NPC's
+
+		S Social
+		P Political
+		E Economic
+		R Religious/Magical
+		M Military
+
+	Environment Generator
+
+		Wilderness
+		Rural
+		Urban
+
+	Story Generator
+
+		Campaign
+		Story Arc
+		Adventure
+		Dungeon
+		Encounter
+
+		Goal
+		Quest Source
+		Antagonist
+		Opposite Goal
+		Challenges
+		Challenge Type (Skill, Social, Combat, etc)
+
+	Character Generator
+
+		Player Characters
+		Major NPC's
+		Minor NPC's
+		Monsters
+
+	Campaign Generator
+		Generates Major and minor nations
+		Generates factions within and without nations
+		Generates subfactions of factions
+		Generates Major Environments
+		Generates Major Cities
+		Generates Minor City names and Traits
+		Generates Major and minor NPC's for each faction, nation, major city
+		Generates list of minor NPC's for random usage
+		Generates Campaign information
+		Generates Multiple Story Arcs, incorporating the cities
+		Generates Adventures within said story arcs
+		Generates Important Dungeons within story arcs
+		Generates Encounters for each major dungeon
+		Generates Monsters for each encounter
+		Generates Random encounters for each environment/city
+		Generates list of random encounters per environnment
+
+	
