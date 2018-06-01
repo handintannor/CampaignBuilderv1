@@ -2,6 +2,13 @@ Campaign Builder Overview:
 
 Campaign Designer:
 
+This designer will have controls for generating a campaign. I intend for it to have completely customizable levels of randomization, so it will have a GUI that will allow you to select each of the following categories and whether or not you want them randomly generated or not. Whether or not I will have a reference mode I am not sure yet.
+
+Each section will have a level and number counter, as well as a slot for each to put a value. There will also be an option to randomize it. You will be able to enter names for each section and object, and there will needs be a reference section/tooltip for each one. Preferrably you can just hover over that and it will show a tooltip.
+
+It should also have a reference section, although I will not put anything that is copyrighted into that unless you pay for it. I'm not sure how that will work. Maybe Orcpub will have a good example.
+
+
 	Political Entity Generator:
 		Nations
 		Factions
